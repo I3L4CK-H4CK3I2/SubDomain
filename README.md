@@ -21,7 +21,7 @@ git clone https://github.com/I3L4CK-H4CK3l2/SubDomain.git
 ### Requirements
 #### Install requests
 ```ps 
-pip install socket
+pip install requests
 ```
 ### Usage
 #### In Windows
